@@ -1,0 +1,14 @@
+[
+    {
+        "id": "dummytext",
+        "label": "",
+        "type": "text",
+        "default": "",
+    },
+    {
+        "id": "onlyKids",
+        "label": "PREF_SEARCHONLYKIDS",
+        "type": "bool",
+        "default": "false"
+    }
+]

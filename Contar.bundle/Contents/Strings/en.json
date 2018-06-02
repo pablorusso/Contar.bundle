@@ -1,0 +1,17 @@
+{
+    "TITLE": "Cont.ar",
+
+    "SEASON_PREFIX": "Season ",
+
+    "MENU_NEWS": "News",
+    "MENU_CATEGORIES": "Categories",
+    "MENU_CHANNELS": "Channels",
+    "MENU_LIVE": "Live",
+    "MENU_KIDS": "Kids",
+
+    "MENU_SEARCH": "Search",
+    "PROMPT_SEARCH": "Search",
+
+    "MENU_PREFS": "Settings",
+    "PREF_SEARCHONLYKIDS": "Search only in kids catalog"
+}

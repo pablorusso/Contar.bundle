@@ -1,0 +1,16 @@
+{
+    "TITLE": "Cont.ar",
+    "SEASON_PREFIX": "Temporada ",
+    
+    "MENU_NEWS": "Novedades",
+    "MENU_CATEGORIES": "Categorias",
+    "MENU_CHANNELS": "Canales",
+    "MENU_LIVE": "En Vivo",
+    "MENU_KIDS": "Infantil",
+
+    "MENU_SEARCH": "Buscar",
+    "PROMPT_SEARCH": "Buscar",
+
+    "MENU_PREFS": "Configuracion",
+    "PREF_SEARCHONLYKIDS": "Buscar únicamente en contenido para niños"
+}
